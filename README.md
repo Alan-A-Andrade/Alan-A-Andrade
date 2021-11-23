@@ -5,7 +5,7 @@ My name is Alan, i'm passionate about design, technology and coding and I strive
 Life Before Times (or coding)
 Bachelor in mechanical engineering and sometimes, freelancer for design with adobe tools kit (mostly illustrator and After Effects)
 
-<img scr="./Assets/adobeaftereffects.svg">
+<img scr="adobeaftereffects.svg">
 The present (right about now).
 I'm learning to become a full stack developer, becoming familiar with JS, CSS and HTML
 
