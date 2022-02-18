@@ -5,10 +5,10 @@ My name is Alan (he/him),
 i'm passionate about design, technology and solving problemas.
 I strive to never let go of the part of myself who is extremely curious and inquisitive, to better understand the world, and all the different people that live in it.
 
-#### Life Before Times (or coding)
+### Life Before Times (or coding)
 Bachelor in mechanical engineering and sometimes, freelancer for design with adobe tools kit (mostly illustrator and After Effects)
 
-#### The present (right about now).
+### The present (right about now).
 I'm an full stack developer, familiar with JS, CSS and HTML, React and NodeJs
 
 ## Tech Stack
