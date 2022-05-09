@@ -1,4 +1,8 @@
 # Long Days and Pleasant Nights!
+<div>
+  <img align="right" alt="coding gif" width="200px" src="./codingGif.gif"/>
+</div>
+
 ### Hello there, welcome to my humble Github Page.
 My name is Alan (he/him),
 
