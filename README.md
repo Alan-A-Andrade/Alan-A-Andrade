@@ -1,6 +1,6 @@
 # Long Days and Pleasant Nights!
 <div>
-  <img align="right" alt="coding gif" width="200px" src="./codingGif.gif"/>
+  <img align="right" alt="coding gif" width="200px" src="./coding_gif_v2.gif"/>
 </div>
 
 ### Hello there, welcome to my humble Github Page.
