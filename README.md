@@ -15,7 +15,11 @@ Full Stack Developer, familiar with JS, TS, CSS, HTML, React, Redux, NodeJs,Pris
 
 ## Tech Stack
 
-[![My Skills](https://skills.thijs.gg/icons?i=html,css,js,ts,react,nodejs,mongodb,prisma,mysql,postgres,figma,docker)](https://skills.thijs.gg)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,redux,nodejs,nestjs,mongodb,prisma,mysql,postgres,docker,jest)](https://github.com/tandpfun/skill-icons)
+
+## Design Stack
+
+[![My Skills](https://skillicons.dev/icons?i=ae,ai,figma)](https://github.com/tandpfun/skill-icons)
 
 ## Social Links
 
