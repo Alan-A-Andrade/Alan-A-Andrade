@@ -11,7 +11,7 @@ My name is Alan (he/him),
 A soul and spirit passionate about design, technology and solving problems.
 I strive to never let go of the part of myself who is extremely curious and inquisitive, to better understand the world, and all the different people that live in it.
 
-Full Stack Developer, familiar with JS, TS, CSS, HTML, React, Redux, NodeJs,Prisma, TypeORM, MongoDB, SQL, NestJS
+Software Engineer
 
 ## Tech Stack
 
