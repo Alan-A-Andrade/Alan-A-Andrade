@@ -15,7 +15,7 @@ Software Engineer
 
 ## Tech Stack
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,redux,nodejs,nestjs,mongodb,prisma,mysql,postgres,docker,jest)](https://github.com/tandpfun/skill-icons)
+[![My Skills](https://skillicons.dev/icons?i=html,css,ts,react,redux,nodejs,express,nestjs,mongodb,prisma,mysql,postgres,docker,jest,aws&perline=8)](https://github.com/tandpfun/skill-icons)
 
 ## Design Stack
 
