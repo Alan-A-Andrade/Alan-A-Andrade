@@ -4,12 +4,11 @@
   <img align="right" alt="coding gif" width="320px" src="./assets/coding_gif_v2.gif"/>
 </div>
 
+
 ### Hello there, welcome to my humble Github Page.
+My name is Alan (he/him).
 
-My name is Alan (he/him),
-
-A soul and spirit passionate about design, technology and solving problems.
-I strive to never let go of the part of myself who is extremely curious and inquisitive, to better understand the world, and all the different people that live in it.
+I am a soul and spirit passionate about design, technology, and solving problems. I strive to never let go of the part of myself that is extremely curious and inquisitive, aiming to better understand the world and all the different people who live in it.
 
 Software Engineer
 
